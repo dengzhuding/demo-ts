@@ -1,3 +1,4 @@
+// 简单示例
 import { StringValidation } from "./Validation";
 import { ZipCodeValidator } from "./ZipCodeValidator";
 import { LettersOnlyValidator } from "./LettersOnlyValidator";
